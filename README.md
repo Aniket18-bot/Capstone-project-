@@ -66,17 +66,6 @@ graph TD
 
 ---
 
-## 📂 Files
-
-| File | Description |
-|------|-------------|
-| `dynamic_pricing_final_notebook.ipynb` | Full implementation notebook |
-| `dataset.csv` | Input dataset |
-| `dynamic_pricing_bokeh_plot.html` | Interactive plot |
-| `README.md` | You're reading it :) |
-
----
-
 ## 📌 How to Run
 
 1. Open `dynamic_pricing_final_notebook.ipynb` in Google Colab  
@@ -88,7 +77,7 @@ graph TD
 
 ## ✍️ Author
 
-Developed as part of **Summer Analytics 2025** Capstone by [Your Name]  
+Developed as part of **Summer Analytics 2025** Capstone by Aniket Arjun Redekar 
 Mentored by **Consulting & Analytics Club** × **Pathway**
 
 ---
